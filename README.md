@@ -7,6 +7,12 @@
 ## 好的文章
 * **[iOS中的Date](http://www.cocoachina.com/swift/20151126/14430.html)**
 * **[swift官方文章(中文版本)](http://wiki.jikexueyuan.com/project/swift/chapter2/chapter2.html)**
-* **[Markdown基本语法1](http://www.appinn.com/markdown/#p), [Markdown基本语法2](http://www.cnblogs.com/hnrainll/p/3514637.html)**
+* **[Markdown基本语法1](http://www.appinn.com/markdown/#p)  [Markdown基本语法2](http://www.cnblogs.com/hnrainll/p/3514637.html)**
 * **[WKWebView详解](http://mp.weixin.qq.com/s/rhYKLIbXOsUJC_n6dt9UfA)**
 * **[iOS App 签名原理](http://wereadteam.github.io/2017/03/13/Signature/)**
+
+## 有意思的公众号
+* **[少数派](http://mp.weixin.qq.com/profile?src=3&timestamp=1491034183&ver=1&signature=opPBajHO*iox4ZF71aokG*YcVFO*x4QGVnjXyBNwIcteUXpQZJYKgjEVpuFoYa5OPQgXJgGqXGhrCX-DFuv1Tw==)**
+* **[SwiftCafe](http://mp.weixin.qq.com/profile?src=3&timestamp=1491034273&ver=1&signature=dlk4HZMMXQ1p4uCkBw0ITnvhMpLHHZOT10jSk71oRdXH64bfNRJ0-9Dpmc41tahvQUtoAB37nLRiUKx9UAKh-w==)**
+* **美团点评技术团队(微信公众号内搜索)**
+* **腾讯Bugly(微信公众号内搜索)**
