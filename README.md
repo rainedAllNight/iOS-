@@ -3,6 +3,7 @@
 ## 技术博客
 * **[美团点评技术团队](http://tech.meituan.com/)**
 * **[微信读书技术团队](http://wereadteam.github.io/)**
+* **[小锅的Swift之路](http://www.swiftyper.com/)**
 
 ## 好的文章
 * **[iOS中的Date](http://www.cocoachina.com/swift/20151126/14430.html)**
@@ -17,3 +18,6 @@
 * **[SwiftCafe](http://mp.weixin.qq.com/profile?src=3&timestamp=1491034273&ver=1&signature=dlk4HZMMXQ1p4uCkBw0ITnvhMpLHHZOT10jSk71oRdXH64bfNRJ0-9Dpmc41tahvQUtoAB37nLRiUKx9UAKh-w==)**
 * **美团点评技术团队(微信公众号内搜索)**
 * **腾讯Bugly(微信公众号内搜索)**
+
+## 其他
+* **[SwiftGG-走心的Swift翻译组](http://swift.gg/)**
