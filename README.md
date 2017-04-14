@@ -12,6 +12,7 @@
 * **[WKWebView详解](http://mp.weixin.qq.com/s/rhYKLIbXOsUJC_n6dt9UfA)**
 * **[iOS App 签名原理](http://wereadteam.github.io/2017/03/13/Signature/)**
 * **[iOS转场动画](http://www.jianshu.com/p/ea0132738057)**
+* **[深入浅出Git权限校验](http://debugtalk.com/post/head-first-git-authority-verification/)**
 
 ## 有意思的公众号
 * **[少数派](http://mp.weixin.qq.com/profile?src=3&timestamp=1491034183&ver=1&signature=opPBajHO*iox4ZF71aokG*YcVFO*x4QGVnjXyBNwIcteUXpQZJYKgjEVpuFoYa5OPQgXJgGqXGhrCX-DFuv1Tw==)**
