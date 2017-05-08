@@ -4,6 +4,7 @@
 * **[美团点评技术团队](http://tech.meituan.com/)**
 * **[微信读书技术团队](http://wereadteam.github.io/)**
 * **[小锅的Swift之路](http://www.swiftyper.com/)**
+* **[王巍(喵神)的博客](https://onevcat.com/#blog)**
 
 ## 好的文章
 * **[iOS中的Date](http://www.cocoachina.com/swift/20151126/14430.html)**
