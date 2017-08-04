@@ -27,3 +27,4 @@
 
 ## 其他
 * **[SwiftGG-走心的Swift翻译组](http://swift.gg/)**
+* **[稀土掘金的iOS板块](https://juejin.im/timeline/ios)**
