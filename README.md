@@ -18,6 +18,7 @@
 * **[深入浅出Git权限校验](http://debugtalk.com/post/head-first-git-authority-verification/)**
 * **[iOS Core Animation: Advanced Techniques中文译本](https://zsisme.gitbooks.io/ios-/content/chapter1/layers-and-trees.html)**
 * **[Xcode中使用Markdown生成Swift代码文档](http://swift.gg/2016/06/15/swift-markdown/)**
+* **[ibireme的深入理解RunLoop](https://blog.ibireme.com/2015/05/18/runloop/)**
 
 ## 有意思的公众号
 * **[少数派](http://mp.weixin.qq.com/profile?src=3&timestamp=1491034183&ver=1&signature=opPBajHO*iox4ZF71aokG*YcVFO*x4QGVnjXyBNwIcteUXpQZJYKgjEVpuFoYa5OPQgXJgGqXGhrCX-DFuv1Tw==)**
