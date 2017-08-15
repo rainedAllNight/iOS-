@@ -6,7 +6,7 @@
 * **[小锅的Swift之路](http://www.swiftyper.com/)**
 * **[王巍(喵神)的博客](https://onevcat.com/#blog)**
 * **[如人饮水，冷暖自知](http://plainboiledwaterln.cn)**
-* ***[BigNerdCoding](http://bignerdcoding.com)**
+* **[BigNerdCoding](http://bignerdcoding.com)**
 * **[YYKit作者-ibiremed](https://blog.ibireme.com)**
 
 ## 好的文章
