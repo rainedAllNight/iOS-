@@ -8,6 +8,7 @@
 * **[如人饮水，冷暖自知](http://plainboiledwaterln.cn)**
 * **[BigNerdCoding](http://bignerdcoding.com)**
 * **[YYKit作者-ibiremed](https://blog.ibireme.com)**
+* **[Swift学徒](http://swift.diagon.me/archives/)**
 
 ## 好的文章
 * **[iOS中的Date](http://www.cocoachina.com/swift/20151126/14430.html)**
