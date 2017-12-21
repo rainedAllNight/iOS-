@@ -9,6 +9,7 @@
 * **[BigNerdCoding](http://bignerdcoding.com)**
 * **[YYKit作者-ibiremed](https://blog.ibireme.com)**
 * **[Swift学徒](http://swift.diagon.me/archives/)**
+* **[青玉伏案的博客](http://www.cnblogs.com/ludashi/)**
 
 ## 好的文章
 * **[iOS中的Date](http://www.cocoachina.com/swift/20151126/14430.html)**
@@ -32,3 +33,4 @@
 * **[SwiftGG-走心的Swift翻译组](http://swift.gg/)**
 * **[稀土掘金的iOS板块](https://juejin.im/timeline/ios)**
 * **[Realm的Swift板块](https://academy.realm.io/cn/)**
+* **[掘金的iOS版块](https://juejin.im/timeline/ios)**
