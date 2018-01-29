@@ -10,6 +10,7 @@
 * **[YYKit作者-ibiremed](https://blog.ibireme.com)**
 * **[Swift学徒](http://swift.diagon.me/archives/)**
 * **[青玉伏案的博客](http://www.cnblogs.com/ludashi/)**
+* **[周登峰的技术博客](http://blog.derekcoder.com)**
 
 ## 好的文章
 * **[iOS中的Date](http://www.cocoachina.com/swift/20151126/14430.html)**
